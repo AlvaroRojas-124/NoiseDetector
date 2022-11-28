@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    tools:context=".NoiseDetectorPage"
+    android:gravity="center_horizontal"
+    android:background="@color/bg_dark"
+    >
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="231dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="276dp"
+        android:textColor="#FFFF"
+        android:text="Cuando la luz está de este color significa que el ruido ambiente es poco o nulo."
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="97dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="244dp"
+        android:contentDescription="Luz Verde"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="#1CF407"
+        android:src="@drawable/diodo"
+        tools:srcCompat="@drawable/diodo" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="93dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="100dp"
+        android:gravity="start"
+        android:text="Luz Roja"
+        android:textAlignment="textStart"
+        android:textColor="#FFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="231dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="132dp"
+        android:textColor="#FFFF"
+        android:text="Cuando la luz está de este color significa que el ruido ambiente es abundante y molesto."
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="97dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="100dp"
+        android:contentDescription="Luz Roja"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="#F40707"
+        android:src="@drawable/diodo"
+        tools:srcCompat="@drawable/diodo" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="92dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="124dp"
+        android:layout_marginTop="244dp"
+        android:gravity="start"
+        android:text="Luz Verde"
+        android:textAlignment="textStart"
+        android:textColor="#FFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="320dp"
+        android:layout_height="170dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="432dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/customborder"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/txtDecibeles"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            android:gravity="center_horizontal"
+            android:text="0 DB"
+            android:textColor="#FFFF"
+            android:textAlignment="center"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <TextView
+            android:id="@+id/txtMensaje"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:textColor="#FFFF"
+            android:text="Usted se encuentra en un ambiente sin contaminación acústica."
+            app:layout_constraintStart_toStartOf="parent"
+            android:gravity="center_horizontal" />
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
