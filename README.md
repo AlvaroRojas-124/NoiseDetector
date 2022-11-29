@@ -51,7 +51,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Leds indicadores: 2
 *	Dimensiones: 49*26*12 mm
 *	Peso: 9 gramos
-
+---
 ### **DIODO LED ROJO Y VERDE**
 #### Especificaciones Técnicas  <img src="images/Leds.png" align="right" width="220px">
 *	Referencia y color: BL-B5141 / BL-B2141  
@@ -61,7 +61,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Ángulo: 40º / 35º
 *	Corriente de alimentación: 20 mA / 20 mA
 *	Tensión de alimentación: 2,2 - 2,6 VDC / 2,2 - 2,6 VDC 
-
+---
 ### **SENSOR DE SONIDO FC-109**
 #### Especificaciones Técnicas
 *	Alimentación: 3.3 a 5 V DC    <img src="images/fc109.png" align="right">
@@ -71,7 +71,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Construido con un LED Indicador de alimentación
 *	Conexión de 3 hilos
 *	Dimensiones: 26 x 12 x10 mm
-
+---
 ### **RESISTENCIA DE 220Ω**
 #### Especificaciones Técnicas
 *	Tipo de elemento resistivo:  Oxido metálico   <img src="images/Resistencia.png" align="right">
