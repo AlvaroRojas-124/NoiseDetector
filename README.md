@@ -85,3 +85,6 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 
 ## Esquema del Circuito
 ![Esquema del Circuito](images/Esquema_NoiseDetector.png)
+
+# **Integrantes del Proyecto**
+***Andres Bustos, Isidora Pizarro, Alvaro Rojas. Instituto Profesional Santo Tomás, San Joaquín 2022***
