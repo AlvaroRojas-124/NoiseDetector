@@ -22,6 +22,36 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 ### **NodeMCU V2 ESP8266 WiFi**
 #### Especificaciones Tecnicas
 * Voltaje de Alimentación: 5V   <h1 align="right"><img src="images/nodeMCU_1.png"></h1>
+* Voltaje de Entradas/Salidas: 3.3V DC (No usar 5V)
+* Placa: NodeMCU v2 (Amica)
+* Chip conversor USB-serial: CP2102
+*	SoM: ESP-12E (Ai-Thinker)
+*	SoC: ESP8266 (Espressif)
+*	CPU: Tensilica Xtensa LX3 (32 bit)
+*	Frecuencia de Reloj: 80MHz/160MHz
+*	Instruction RAM: 32KB
+*	Data RAM: 96KB
+*	Memoria Flash Externa: 4MB
+*	Pines Digitales GPIO: 17 (4 pueden configurarse como PWM a 3.3V)
+*	Pin Analógico ADC: 1 (0-1V)
+*	Puerto Serial UART: 2
+*	Certificación FCC
+*	Antena en PCB
+*	802.11 b/g/n
+*	Wi-Fi Direct (P2P), soft-AP
+*	Stack de Protocolo TCP/IP integrado
+*	PLLs, reguladores, DCXO y manejo de poder integrados
+*	Potencia de salida de +19.5dBm en modo 802.11b
+*	Corriente de fuga menor a 10uA
+*	STBC, 1×1 MIMO, 2×1 MIMO
+*	A-MPDU & A-MSDU aggregation & 0.4ms guard interval
+*	Wake up and transmit packets in < 2ms
+*	Consumo de potencia Standby < 1.0mW (DTIM3)
+*	Pulsador RESET y FLASH
+*	Leds indicadores: 2
+*	Dimensiones: 49*26*12 mm
+*	Peso: 9 gramos
+
 
 
 ## Esquema del Circuito
