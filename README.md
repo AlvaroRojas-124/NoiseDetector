@@ -53,8 +53,8 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Peso: 9 gramos
 
 ### **DIODO LED ROJO Y VERDE**
-#### Especificaciones Técnicas
-*	Referencia y color: BL-B5141 / BL-B2141  <img src="images/Leds.png" align="right" width="220px">
+#### Especificaciones Técnicas  <img src="images/Leds.png" align="right" width="220px">
+*	Referencia y color: BL-B5141 / BL-B2141  
 *	Cápsula (diámetro): 3 mm / 3 mm 
 *	Luminosidad: 10 mcd / 40 mcd     
 *	Longitud de onda: 700 nm / 568 nm
