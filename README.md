@@ -20,7 +20,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 
 ## Lista de Materiales
 ### **NodeMCU V2 ESP8266 WiFi**
-#### Especificaciones Tecnicas
+#### Especificaciones Técnicas
 * Voltaje de Alimentación: 5V   <img src="images/nodeMCU_1.png" align="right">
 * Voltaje de Entradas/Salidas: 3.3V DC (No usar 5V)
 * Placa: NodeMCU v2 (Amica)
@@ -38,7 +38,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Certificación FCC
 *	Antena en PCB
 *	802.11 b/g/n
-*	Wi-Fi Direct (P2P), soft-AP
+*	Wi-Fi Direct (P2P), soft-AP  <img src="images/nodeMCU_2.png" align="right"> 
 *	Stack de Protocolo TCP/IP integrado
 *	PLLs, reguladores, DCXO y manejo de poder integrados
 *	Potencia de salida de +19.5dBm en modo 802.11b
@@ -52,7 +52,36 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 *	Dimensiones: 49*26*12 mm
 *	Peso: 9 gramos
 
+### **DIODO LED ROJO Y VERDE**
+#### Especificaciones Técnicas
+*	Referencia y color: BL-B5141/ BL-B2141
+*	Cápsula (diámetro): 3 mm/3 mm 
+*	Luminosidad: 10 mcd/ 40 mcd     <img src="images/Leds.png" align="right">
+*	Longitud de onda: 700 nm/ 568 nm
+*	Ángulo: 40º/ 35º
+*	Corriente de alimentación: 20 mA /20 mA
+*	Tensión de alimentación: 2,2~2,6 VDC/   2,2~2,6 VDC 
 
+### **SENSOR DE SONIDO FC-109**
+#### Especificaciones Técnicas
+*	Alimentación: 3.3 a 5 V DC
+*	Permite detectar la intensidad de sonido del entorno
+*	Incorpora un amplificador de audio MAX9812      <img src="images/fc109.png" align="right">
+*	Posee un orificio de instalación para facilitar su uso y montaje
+*	Construido con un LED Indicador de alimentación
+*	Conexión de 3 hilos
+*	Dimensiones: 26 x 12 x10 mm
+
+### **RESISTENCIA DE 220Ω**
+#### Especificaciones Técnicas
+*	Tipo de elemento resistivo:  Oxido metálico
+*	Tipo: Carbón
+*	Rango temperatura de operación: -55 a 20°C    <img src="images/Resistencia.png" align="right">
+*	2 pines (axial)
+*	Resistencias de metal con una precisión de +-5% de tolerancia.
+*	Potencia nominal: 1/4 W
+*	Máxima tensión nominal: 300 V
+*	Resistencia: 220 Ohm
 
 ## Esquema del Circuito
 ![Esquema del Circuito](images/Esquema_NoiseDetector.png)
