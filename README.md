@@ -19,6 +19,9 @@ los niveles de contaminación acústica que hay en cada zona en la que se esté 
 De manera física, el dispositivo tendrá la capacidad de representar esto a través de **2 diodos LED**, que nos dirá de manera intuitiva, si hay contaminación acústica en el lugar. Para esto el dispositivo está configurado para que cuando este entre los rangos de 40 a 60 decibeles, se encienda el LED verde, el cuál indica que se encuentra en un ambiente grato sin contaminación excesiva. Y si se supera este rango se encenderá el LED rojo, el cuál indica que hay contaminación acústica en dicho lugar. *Todo esto se ve reflejado en la aplicación Android en paralelo.*
 
 ## Lista de Materiales
+### **NodeMCU V2 ESP8266 WiFi**
+#### Especificaciones Tecnicas
+* Voltaje de Alimentación: 5V   <img src="images/nodeMCU_1.png">
 
 
 ## Esquema del Circuito
