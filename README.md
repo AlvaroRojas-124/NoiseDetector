@@ -21,7 +21,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 ## Lista de Materiales
 ### **NodeMCU V2 ESP8266 WiFi**
 #### Especificaciones Tecnicas
-* Voltaje de Alimentación: 5V   <img src="images/nodeMCU_1.png">
+* Voltaje de Alimentación: 5V   <h1 align="right"><img src="images/nodeMCU_1.png"></h1>
 
 
 ## Esquema del Circuito
