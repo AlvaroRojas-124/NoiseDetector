@@ -54,19 +54,19 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 
 ### **DIODO LED ROJO Y VERDE**
 #### Especificaciones Técnicas
-*	Referencia y color: BL-B5141/ BL-B2141
-*	Cápsula (diámetro): 3 mm/3 mm 
-*	Luminosidad: 10 mcd/ 40 mcd     <img src="images/Leds.png" align="right">
-*	Longitud de onda: 700 nm/ 568 nm
-*	Ángulo: 40º/ 35º
-*	Corriente de alimentación: 20 mA /20 mA
-*	Tensión de alimentación: 2,2~2,6 VDC/   2,2~2,6 VDC 
+*	Referencia y color: BL-B5141 / BL-B2141  <img src="images/Leds.png" align="right">
+*	Cápsula (diámetro): 3 mm / 3 mm 
+*	Luminosidad: 10 mcd / 40 mcd     
+*	Longitud de onda: 700 nm / 568 nm
+*	Ángulo: 40º / 35º
+*	Corriente de alimentación: 20 mA / 20 mA
+*	Tensión de alimentación: 2,2 - 2,6 VDC / 2,2 - 2,6 VDC 
 
 ### **SENSOR DE SONIDO FC-109**
 #### Especificaciones Técnicas
-*	Alimentación: 3.3 a 5 V DC
+*	Alimentación: 3.3 a 5 V DC    <img src="images/fc109.png" align="right">
 *	Permite detectar la intensidad de sonido del entorno
-*	Incorpora un amplificador de audio MAX9812      <img src="images/fc109.png" align="right">
+*	Incorpora un amplificador de audio MAX9812      
 *	Posee un orificio de instalación para facilitar su uso y montaje
 *	Construido con un LED Indicador de alimentación
 *	Conexión de 3 hilos
@@ -74,9 +74,9 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 
 ### **RESISTENCIA DE 220Ω**
 #### Especificaciones Técnicas
-*	Tipo de elemento resistivo:  Oxido metálico
+*	Tipo de elemento resistivo:  Oxido metálico   <img src="images/Resistencia.png" align="right">
 *	Tipo: Carbón
-*	Rango temperatura de operación: -55 a 20°C    <img src="images/Resistencia.png" align="right">
+*	Rango temperatura de operación: -55 a 20°C    
 *	2 pines (axial)
 *	Resistencias de metal con una precisión de +-5% de tolerancia.
 *	Potencia nominal: 1/4 W
