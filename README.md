@@ -22,4 +22,4 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 
 
 ## Esquema del Circuito
-![](https://imgur.com/a/wN3YRjc)
+![Esquema del Circuito](https://imgur.com/a/wN3YRjc)
