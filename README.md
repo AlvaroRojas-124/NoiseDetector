@@ -89,10 +89,10 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 # Interfaz Gráfica de Android
   <img src="images/UIAndroid_1.jpeg" align="center">
   <p style="text-align:center"><i>Pantalla de Inicio</i></p>
----
+___
   <img src="images/UIAndroid_2.jpeg" align="center">
   <p style="text-align:center"><i>Primer mensaje sin contaminación acústica</i></p>
----
+___
   <img src="images/UIAndroid_3.jpeg" align="center">
   <p style="text-align:center"><i>Segundo mensaje con contaminación acústica</i></p>
 
