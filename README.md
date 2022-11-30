@@ -86,7 +86,7 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 ## Esquema del Circuito
 ![Esquema del Circuito](images/Esquema_NoiseDetectorMQTT.png)
 
-## Interfaz Gráfica de Android
+# Interfaz Gráfica de Android
   <img src="images/UIAndroid_1.jpeg" align="center">
   <p style="text-align:center"><i>Pantalla de Inicio</i></p>
 ---
