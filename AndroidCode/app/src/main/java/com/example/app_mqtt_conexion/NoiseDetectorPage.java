@@ -71,7 +71,7 @@ public class NoiseDetectorPage extends AppCompatActivity {
                 String update = new String(message.getPayload());
                 String msgUpdate;
                 float bgMod = Float.parseFloat(update);
-                if (bgMod >= 40.0 && bgMod < 60.0){
+                if (bgMod < 60.0){
 
                     frameLayout.setBackground(ContextCompat.getDrawable(NoiseDetectorPage.this, R.drawable.customborder_green));
                     msgUpdate = new String("Usted se encuentra en un ambiente sin contaminación acústica.");
