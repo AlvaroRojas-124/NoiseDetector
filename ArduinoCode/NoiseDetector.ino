@@ -89,7 +89,7 @@ void loop()
       Serial.println(volts_db);
    }
 
-   if (volts_db >= 40.0 and volts_db < 70.0){
+   if (volts_db < 60.0){
     
       digitalWrite(LedV, HIGH);
       digitalWrite(LedR, LOW);   
