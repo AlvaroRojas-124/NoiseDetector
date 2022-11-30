@@ -87,11 +87,14 @@ De manera física, el dispositivo tendrá la capacidad de representar esto a tra
 ![Esquema del Circuito](images/Esquema_NoiseDetectorMQTT.png)
 
 ## Interfaz Gráfica de Android
-![Pantalla de inicio](images/UIAndroid_1.jpeg)
+<img src="images/UIAndroid_1.jpeg" align="center">
+<p align="center">*Pantalla de Inicio*</p>
 ---
-![Primer mensaje sin contaminación acústica](images/UIAndroid_2.jpeg)
+<img src="images/UIAndroid_2.jpeg" align="center">
+<p align="center">*Primer mensaje sin contaminación acústica*</p>
 ---
-![Segundo mensaje con contaminación acústica](images/UIAndroid_3.jpeg)
+<img src="images/UIAndroid_3.jpeg" align="center">
+<p align="center">*Segundo mensaje con contaminación acústica*</p>
 
 # **Integrantes del Proyecto**
 ***Andres Bustos, Isidora Pizarro, Alvaro Rojas. Instituto Profesional Santo Tomás, San Joaquín 2022***
